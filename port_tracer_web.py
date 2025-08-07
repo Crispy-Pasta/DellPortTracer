@@ -45,7 +45,7 @@ MAC address tracing and advanced VLAN management capabilities.
 - Progress tracking for large batches
 
 Repository: https://github.com/Crispy-Pasta/DellPortTracer
-Version: 2.1.2
+Version: 2.1.1
 Author: Network Operations Team
 Last Updated: January 2025 - VLAN Manager & Enhanced UI
 License: MIT
